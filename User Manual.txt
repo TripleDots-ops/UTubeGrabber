@@ -1,0 +1,71 @@
+UtubeGrabber User Manual
+
+
+1. Installation
+System Requirements
+Python 3.x installed on your computer
+
+Internet connection
+
+Sufficient storage space for downloads
+
+Required Package Installation
+Open your command prompt/terminal and run:
+
+pip install customtkinter
+pip install pytubefix
+pip install pytube
+
+Copy
+
+Insert at cursor
+bash
+2. Getting Started
+Launching the Application
+Locate the UtubeGrabber.py file
+
+Double-click to run, or open via command line:
+
+python UtubeGrabber.py
+
+Copy
+
+Insert at cursor
+bash
+A dark-themed window will appear
+
+3. Using the Application
+Basic Operation
+Copy a YouTube URL
+
+Go to YouTube
+
+Find your desired video
+
+Copy the video URL from your browser's address bar
+
+Paste the URL
+
+Click the input field in UtubeGrabber
+
+Paste your YouTube URL (Ctrl+V or right-click → Paste)
+
+Select Download Format
+
+MP4: Video with audio
+
+MP3: Audio only
+
+Both: Downloads both formats
+
+Download Process
+
+Click the "Download" button
+
+Choose your save location in the popup window
+
+Wait for the "Download Complete" message
+
+Exit
+
+Click the "Exit" button to close the application
